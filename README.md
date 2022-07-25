@@ -13,6 +13,9 @@ This tool allows users to input information related to their employees into the 
 
 GitHub URL: [https://github.com/timmobrien/company-team-HTML-generator](https://github.com/timmobrien/company-team-HTML-generator)
 
+https://user-images.githubusercontent.com/20904553/180734923-9a10f1e4-40a4-42aa-8987-6d59712d22cc.mp4
+
+
 ## Table of Contents
 1. [Title](#title)
 
