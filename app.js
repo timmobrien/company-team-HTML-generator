@@ -86,6 +86,8 @@ async function main () {
 
         // write file from generated HTML & put it in the output folder
         fs.writeFileSync(outputHtmlFile, html, 'utf-8')
+
+        console.log('All done! Check the output folder for your html file.')
     
     } else {
         // If the user wasn't done yet, restart main() to add another employee
