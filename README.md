@@ -43,7 +43,7 @@ Copyright © 2022 [@timmobrien](https://github.com/timmobrien)
 Pull requests are welcome.
 
 ## Tests <a name="tests"></a>
-
+All of the created functions within each class have their functionality verified through tests
 
 ## Questions <a name="questions"></a>
 
